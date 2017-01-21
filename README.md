@@ -1,1 +1,2 @@
 #Android Fitness Application
+We are designing a fitness application which will track user’s exercise activity (running, cycling, crunches, etc.) and store the information about activities performed in a database which will be utilized to track user’s performance. The app can suggest whether to exercise in a gym or continue daily outdoor exercise depending upon weather condition. Depending upon calories burnt in an exercise nutrient diet can be suggested. Depending upon user’s exercise timings notification is given to encourage regular exercise.
